@@ -1,0 +1,9 @@
+*.pem
+*.ppk
+.aws/
+*.key
+*.log
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
